@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@android:color/white"
+    android:paddingLeft="10dip"
+    android:paddingRight="10dip"
+    android:paddingTop="5dip"
+    android:id="@+id/sys_info_relout"
+    android:paddingBottom="5dip" >
+
+    <ImageView
+        android:id="@+id/groupIcon"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:background="@drawable/head_default_male" />
+
+    <TextView
+        android:id="@+id/numIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/groupIcon"
+        android:layout_alignTop="@+id/groupIcon"
+        android:layout_marginRight="-5dip"
+        android:background="@drawable/msg_tag"
+        android:textColor="#444444"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dip"
+        android:layout_toRightOf="@+id/groupIcon" >
+
+        <TextView
+            android:id="@+id/child_time"
+            android:layout_width="wrap_content"
+            android:layout_height="20dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dip"
+            android:gravity="center"
+            android:paddingLeft="12dip"
+            android:singleLine="true"
+            android:text="1天前"
+            android:textColor="#6c6c6c"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/childto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/child_time"
+            android:gravity="center|left"
+            android:paddingLeft="12dip"
+            android:singleLine="true"
+            android:text="互联信使团队"
+            android:textColor="#000000"
+            android:textSize="16.0sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/child_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/childto"
+            android:layout_alignRight="@+id/childto"
+            android:layout_below="@+id/childto"
+            android:layout_marginTop="5dip"
+            android:gravity="center|left"
+            android:paddingLeft="12dip"
+            android:singleLine="true"
+            android:text="欢迎您使用互联信使，点击右上角的u+图标选择一个联系人给他发一条附带有声照片的短信试试看吧！如果您有问题可以点击工具-设置-使用帮助来查询。"
+            android:textColor="#6c6c6c"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

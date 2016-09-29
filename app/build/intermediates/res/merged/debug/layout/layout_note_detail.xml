@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDFFF6"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <ImageView
+        android:id="@+id/iv_play"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/movie_play01" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/layout_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="@drawable/sms_list_driver" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:paddingLeft="8dip"
+                    android:text="时间："
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:id="@+id/tv_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:paddingLeft="8dip"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="@drawable/sms_list_driver" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="8dip"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:paddingLeft="8dip"
+                    android:text="人脉："
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+
+                <EditText
+                    android:id="@+id/tv_contacts"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="8dip"
+                    android:layout_toRightOf="@+id/tv1"
+                    android:background="@null"
+                    android:enabled="false"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="8dip"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/et_content"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/layout_content"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/edit_input"
+            android:gravity="top|left"
+            android:inputType="textMultiLine"
+            android:padding="5dip"
+            android:textSize="16.0sp" >
+        </TextView>
+
+        <ImageView
+            android:id="@+id/iv_img"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignBottom="@+id/et_content"
+            android:layout_alignRight="@+id/et_content"
+            android:layout_margin="5dip"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg_image" />
+    </RelativeLayout>
+
+</LinearLayout>

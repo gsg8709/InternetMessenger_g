@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <LinearLayout
+        android:id="@+id/layout_record"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/btn_blue2"
+        android:focusable="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:textColor="@android:color/white" >
+
+        <TextView
+            android:id="@+id/tv_record"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="按住说话"
+            android:textColor="@android:color/white" />
+
+        <ProgressBar
+            android:id="@+id/p_record"
+            style="@android:style/Widget.ProgressBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_record"
+        android:layout_below="@+id/layout_title"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10.0dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/shape_bg"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/layout_starttime"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:background="@drawable/edit_input_top" >
+
+                <TextView
+                    android:id="@+id/tv_starttime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15.0dip"
+                    android:background="@null"
+                    android:text="00:00"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="3dip"
+                    android:layout_toLeftOf="@+id/tv_starttime"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint="开始时间"
+                    android:paddingLeft="15dip"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="@drawable/shape_line" />
+
+            <RelativeLayout
+                android:id="@+id/layout_endtime"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:background="@drawable/edit_input_bottom" >
+
+                <TextView
+                    android:id="@+id/tv_endtime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15.0dip"
+                    android:background="@null"
+                    android:text="24:00"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="3dip"
+                    android:layout_toLeftOf="@+id/tv_endtime"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint="结束时间"
+                    android:paddingLeft="15dip"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10.0dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/shape_bg"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/layout_repeat"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:background="@drawable/edit_input" >
+
+                <TextView
+                    android:id="@+id/tv_repeat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15.0dip"
+                    android:background="@null"
+                    android:hint="无限制"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="3dip"
+                    android:layout_toLeftOf="@+id/tv_repeat"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint="重发条件"
+                    android:paddingLeft="15dip"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10.0dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/shape_bg"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/layout_effect"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:background="@drawable/edit_input" >
+
+                <CheckBox
+                    android:id="@+id/cb_effect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:button="@drawable/check_box_login"
+                    android:textColor="#444444"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_marginRight="3dip"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:hint="是否生效"
+                    android:paddingLeft="15dip"
+                    android:textColor="#ff545454"
+                    android:textColorHint="#ff545454"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:textColor="@android:color/white" >
+
+            <EditText
+                android:id="@+id/et_content"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="15.0dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/edit_input"
+                android:gravity="top|left"
+                android:hint="请输入挂机短信内容"
+                android:padding="8dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="16.0sp" />
+
+            <ImageView
+                android:id="@+id/iv_img"
+                android:layout_width="50dip"
+                android:layout_height="50dip"
+                android:layout_alignBottom="@+id/et_content"
+                android:layout_alignRight="@+id/et_content"
+                android:layout_margin="5dip"
+                android:src="@drawable/btn_choose_img" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <include
+        android:id="@+id/layout_voice_dialog"
+        android:layout_below="@+id/layout_title"
+        layout="@layout/layout_voice_dialog"
+        android:visibility="gone" />
+
+</RelativeLayout>

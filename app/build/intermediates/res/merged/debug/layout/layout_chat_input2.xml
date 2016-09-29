@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/layout_chat_input_sms"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:layout_alignParentBottom="true" >
+	<EditText
+		android:id="@+id/et_content_sms"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:background="@drawable/edit_input"
+		android:gravity="center|left"
+		android:hint="请输入短信内容"
+		android:maxHeight="150dip"
+		android:minHeight="50dip"
+		android:minLines="1"
+		android:padding="8dip"
+		android:textColor="@android:color/black"
+		android:textColorHint="#c5c5c5"
+		android:textSize="16.0sp" />
+	<LinearLayout
+		android:id="@+id/layout_button"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/et_content_sms"
+		android:gravity="center_vertical"
+		android:orientation="horizontal" >
+		<Button
+			android:id="@+id/btn_send"
+			android:layout_width="fill_parent"
+			android:layout_height="50dip"
+			android:layout_weight="1.0"
+			android:background="@drawable/btn_blue2"
+			android:text="发送"
+			android:textColor="#01a189"
+			android:layout_marginRight="1dip"
+			android:textSize="16.0sp" />
+		<Button
+			android:id="@+id/btn_sms_mode"
+			android:layout_width="fill_parent"
+			android:layout_height="50dip"
+			android:layout_weight="1.0"
+			android:background="@drawable/btn_blue2"
+			android:text="短信段子"
+			android:textColor="#01a189"
+			android:textSize="16.0sp" />
+	</LinearLayout>
+</RelativeLayout>

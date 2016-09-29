@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/v2_background_pattern_bg"
+	android:orientation="vertical" >
+	<!-- 标题栏 -->
+	<include layout="@layout/layout_title_view" />
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginTop="20.0dip"
+		android:orientation="vertical"
+		android:paddingLeft="10.659973dip"
+		android:paddingRight="10.659973dip" >
+		<EditText
+			android:id="@+id/edittext_tel"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="6.659973dip"
+			android:background="@drawable/v2_img_inputbar"
+			android:gravity="center_vertical"
+			android:hint="请输入用于接收登陆密码的手机号"
+			android:inputType="phone"
+			android:paddingLeft="10.559998dip"
+			android:paddingRight="9.23999dip"
+			android:shadowColor="#ffffffff"
+			android:shadowDx="0.0"
+			android:shadowDy="1.0"
+			android:shadowRadius="1.0"
+			android:textColor="#ff111111"
+			android:textColorHint="#ff97999d"
+			android:textSize="16.0sp"
+			android:textStyle="bold" />
+		<Button
+			android:id="@+id/btn_confirm_identifier"
+			style="@style/v2_common_button_big_green"
+			android:layout_marginTop="20.0dip"
+			android:text="注册" />
+	</LinearLayout>
+</LinearLayout>

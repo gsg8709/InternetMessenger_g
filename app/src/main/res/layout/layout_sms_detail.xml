@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/v2_background_pattern_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <TextView
+        android:id="@+id/tv_card_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="top|left"
+        android:padding="10dip"
+        android:textColor="#666666"
+        android:textSize="18.0sp" />
+
+</LinearLayout>

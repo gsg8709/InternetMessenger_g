@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pinyin4j_android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pinyin4j_android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

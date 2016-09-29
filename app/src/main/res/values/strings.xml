@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">互联信使</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="msg_network_error">请求异常,请重试</string>
+	<string name="send_sms_success">发送短信成功</string>
+	<string name="can_not_find_version_name">不能找到当前版本</string>
+	<string name="now_is_new_version">当前已是最新版本</string>
+	<string name="open_buessiness">开通业务</string>
+</resources>

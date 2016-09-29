@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.feihong.msg.sms"
+        minSdkVersion 8
+        targetSdkVersion 17
+        versionCode 1258
+        versionName "3.8"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            //前一部分代表系统默认的android程序的混淆文件，该文件已经包含了基本的混淆声明
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard.cfg'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:1.7.1'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.j256.ormlite:ormlite-android:4.48'
+    compile 'com.lzy.net:okhttputils:1.7.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
+}

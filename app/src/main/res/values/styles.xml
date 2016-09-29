@@ -1,0 +1,97 @@
+<resources>
+	<!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+
+
+
+
+	-->
+	<style name="AppBaseTheme" parent="android:Theme.Light">		<!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+
+		-->
+	</style>
+	<style name="popwindow_anim_style">
+		<item name="android:windowEnterAnimation">@anim/pop_show</item>
+		<item name="android:windowExitAnimation">@anim/pop_hide</item>
+	</style>
+	<style name="popwindow_anim_style2">
+		<item name="android:windowEnterAnimation">@anim/pop_show2</item>
+		<item name="android:windowExitAnimation">@anim/pop_hide2</item>
+	</style>
+	<!-- Application theme. -->
+	<style name="AppTheme" parent="AppBaseTheme"> <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+	</style>
+	<style name="Theme" parent="@android:style/Theme"></style>
+	<style name="Theme.Tabhost">
+		<item name="android:windowContentOverlay">@null</item>
+	</style>
+	<style name="TextView"></style>
+	<style name="TextView.Small">
+		<item name="android:textSize">15dip</item>
+	</style>
+	<style name="TextView.Small.White">
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+	<style name="TextView.Small.Black">
+		<item name="android:textColor">@android:color/black</item>
+	</style>
+	<style name="TextView.Middle">
+		<item name="android:textSize">18dip</item>
+	</style>
+	<style name="TextView.Middle.White">
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+	<style name="TextView.Middle.Black">
+		<item name="android:textColor">@android:color/black</item>
+	</style>
+	<style name="v2_common_button_big">
+		<item name="android:textSize">19.329987sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@drawable/v2_selector_button_text_color</item>
+		<item name="android:gravity">center</item>
+		<item name="android:paddingBottom">1.0dip</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">48.669983dip</item>
+	</style>
+	<style name="v2_common_button_small">
+		<item name="android:textSize">19.329987sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@drawable/v2_selector_button_text_color</item>
+		<item name="android:gravity">center</item>
+		<item name="android:paddingBottom">1.0dip</item>
+		<item name="android:layout_width">75dp</item>
+		<item name="android:layout_height">48.669983dip</item>
+	</style>
+	<style name="v2_common_button_big_green" parent="@style/v2_common_button_big">
+		<item name="android:background">@drawable/btn_blue</item>
+		<item name="android:shadowColor">#ff2e621b</item>
+		<item name="android:shadowDy">0.67</item>
+		<item name="android:shadowRadius">0.67</item>
+	</style>
+	<style name="v2_common_button_big_grey" parent="@style/v2_common_button_big">
+		<item name="android:background">@drawable/btn_gray</item>
+		<item name="android:shadowColor">#ff3e4754</item>
+		<item name="android:shadowDy">0.67</item>
+		<item name="android:shadowRadius">0.67</item>
+	</style>
+
+	<style name="v2_common_button_small_green" parent="@style/v2_common_button_small">
+		<item name="android:background">@drawable/btn_blue</item>
+		<item name="android:shadowColor">#ff2e621b</item>
+		<item name="android:shadowDy">0.67</item>
+		<item name="android:shadowRadius">0.67</item>
+	</style>
+	
+	 <style name="DialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground"> @android:color/transparent </item>
+        <item name="android:backgroundDimEnabled">false</item>    </style> 
+</resources>

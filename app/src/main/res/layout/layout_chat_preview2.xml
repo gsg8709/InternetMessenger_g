@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efeff5"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <ScrollView
+        android:id="@+id/scroll_msg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fadeScrollbars="false"
+        android:fadingEdge="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:background="#efeff5"
+            android:orientation="vertical" >
+            
+            <RelativeLayout
+                android:id="@+id/layout_record"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_card_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:textColor="#666666"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/iv_play"
+                    android:layout_width="60dip"
+                    android:layout_height="50dip"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/movie_play01"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:id="@+id/layout_img"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="40dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginLeft="10dip"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/iv_img"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:visibility="gone" 
+                    android:src="@drawable/bg_image" />
+
+                <TextView
+                    android:id="@+id/tv_card_content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="5dip"
+                    android:enabled="false"
+                    android:gravity="top|left"
+                    android:textColor="#666666"
+                    android:visibility="gone"
+                    android:textSize="16.0sp" />
+
+                <com.msg.widget.ProgressWebView
+                    android:id="@+id/webview"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

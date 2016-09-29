@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="40.669983dip" >
+	<RelativeLayout
+		android:id="@+id/layout_right"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"
+		android:layout_centerVertical="true"
+		android:layout_marginRight="8.0dip" >
+		<ImageView
+			android:id="@+id/img1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:src="@drawable/setting_submenu_normal" />
+		<CheckBox
+			android:id="@+id/cb_group"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:button="@drawable/check_box"
+			android:clickable="false"
+			android:focusable="false"
+			android:visibility="gone" />
+	</RelativeLayout>
+	<TextView
+		android:id="@+id/tv_name"
+		android:layout_width="fill_parent"
+		android:layout_height="50dip"
+		android:layout_marginRight="3dip"
+		android:layout_toLeftOf="@+id/layout_right"
+		android:gravity="center_vertical|left"
+		android:paddingLeft="15dip"
+		android:textColor="#ff545454"
+		android:textColorHint="#ff545454"
+		android:textSize="16.0sp" />
+</RelativeLayout>

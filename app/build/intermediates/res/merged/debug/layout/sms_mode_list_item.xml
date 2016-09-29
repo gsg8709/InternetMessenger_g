@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:paddingBottom="5dip" >
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="10dip"
+		android:layout_marginRight="10dip"
+		android:background="@drawable/list_item_bg" >
+		<ImageView
+			android:id="@+id/iv_simage"
+			android:layout_width="50dip"
+			android:layout_height="50dip"
+			android:layout_alignParentLeft="true"
+			android:layout_centerVertical="true"
+			android:layout_marginLeft="10dip"
+			android:src="@drawable/icon_default" 
+			android:visibility="gone"/>
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:layout_toRightOf="@id/iv_simage" >
+			<RelativeLayout
+				android:id="@+id/layout_right"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentRight="true"
+				android:layout_centerVertical="true"
+				android:layout_marginRight="8dip" >
+				<CheckBox
+					android:id="@+id/cb_sms"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:button="@drawable/check_box"
+					android:clickable="false"
+					android:focusable="false"
+					android:visibility="gone" />
+				<TextView
+					android:id="@+id/tv_time"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_alignWithParentIfMissing="true"
+					android:background="@null"
+					android:gravity="center_vertical|left"
+					android:paddingLeft="8dip"
+					android:textColor="#ff545454"
+					android:textColorHint="#ff545454"
+					android:textSize="14.0sp" />
+			</RelativeLayout>
+			<TextView
+				android:id="@+id/tv_content"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_toLeftOf="@+id/layout_right"
+				android:background="@null"
+				android:gravity="center_vertical|left"
+				android:paddingLeft="15dip"
+				android:textColor="#ff545454"
+				android:textColorHint="#ff545454"
+				android:textSize="17.0sp" />
+		</RelativeLayout>
+	</RelativeLayout>0
+	<ImageView
+	    android:id="@+id/iv_choose"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentTop="true"
+		android:layout_marginLeft="10dip"
+		android:layout_marginRight="10dip"
+		android:src="@drawable/list_item_left"
+		android:visibility="gone" />
+</RelativeLayout>

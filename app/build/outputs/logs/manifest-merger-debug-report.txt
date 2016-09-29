@@ -1,0 +1,448 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:2:1-202:12
+	package
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:6:5-180:19
+	android:label
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:8:9-36
+	android:icon
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:7:9-48
+activity#com.msg.ui.GuideActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:13:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.msg.ui.LoginActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:23:9-26:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:24:13-52
+activity#com.msg.ui.RegisterActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:27:9-30:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:28:13-55
+activity#com.msg.ui.MainActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:31:9-35:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:33:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:34:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:35:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:32:13-51
+activity#com.msg.ui.InterconnectionSmsActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:36:9-39:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:39:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:37:13-65
+activity#com.msg.ui.ContactsActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:40:9-44:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:42:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:44:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:41:13-55
+activity#com.msg.ui.ContactDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:45:9-49:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:47:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:49:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:46:13-60
+activity#com.msg.ui.ContactsChooseActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:50:9-54:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:54:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:53:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:51:13-61
+activity#com.msg.ui.FoundActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:55:9-58:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:58:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:56:13-52
+activity#com.msg.ui.ToolsActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:59:9-62:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:61:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:60:13-52
+activity#com.msg.ui.GameActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:63:9-66:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:66:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:64:13-51
+activity#com.msg.ui.NoteActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:67:9-71:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:69:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:71:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:70:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:68:13-51
+activity#com.msg.ui.SettingActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:72:9-75:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:74:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:75:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:73:13-54
+activity#com.msg.ui.NoteAddActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:76:9-80:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:78:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:80:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:79:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:77:13-54
+activity#com.msg.ui.ChatPreviewActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:81:9-85:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:85:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:84:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:82:13-58
+activity#com.msg.ui.NoteDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:86:9-89:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:88:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:89:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:87:13-57
+activity#com.msg.ui.ChatDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:90:9-94:75
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:92:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:94:13-72
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:93:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:91:13-57
+activity#com.msg.ui.ChatSendActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:95:9-100:75
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:97:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:100:13-72
+	android:configChanges
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:98:13-63
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:99:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:96:13-55
+activity#com.msg.ui.NoteSearchActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:101:9-105:75
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:103:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:105:13-72
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:104:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:102:13-57
+activity#com.msg.ui.OfHookDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:106:9-110:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:108:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:110:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:109:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:107:13-59
+activity#com.msg.ui.GroupActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:111:9-114:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:113:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:114:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:112:13-52
+activity#com.msg.ui.GroupItemActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:115:9-118:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:117:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:118:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:116:13-56
+activity#com.msg.ui.UploadHeadActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:119:9-122:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:121:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:122:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:120:13-57
+activity#com.msg.ui.ReciveSmsActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:123:9-126:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:125:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:126:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:124:13-56
+activity#com.msg.ui.SmsModeDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:127:9-130:69
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:129:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:130:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:128:13-60
+activity#com.msg.ui.MiniCardDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:131:9-135:55
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:133:13-49
+	android:windowSoftInputMode
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:135:13-52
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:134:13-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:132:13-61
+activity#com.msg.ui.NewsActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:136:9-139:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:138:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:139:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:137:13-51
+activity#com.msg.ui.MiniCardActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:140:9-143:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:142:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:143:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:141:13-55
+activity#com.msg.ui.NewDetailActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:144:9-147:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:146:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:147:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:145:13-56
+activity#com.msg.ui.SmsModeActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:148:9-151:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:150:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:151:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:149:13-54
+activity#com.msg.ui.OfHookActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:152:9-155:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:154:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:155:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:153:13-53
+activity#com.msg.ui.OpenBuessinessActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:156:9-159:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:158:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:159:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:157:13-61
+activity#com.msg.ui.HelpActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:160:9-163:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:162:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:163:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:161:13-51
+activity#com.msg.ui.ToolsNewActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:164:9-167:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:166:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:167:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:165:13-55
+activity#com.msg.ui.OpenBuessinessByWebActivity
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:168:10-171:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:170:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:171:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:169:13-66
+activity#com.msg.ui.ChatPreviewActivity2
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:172:10-175:66
+	android:screenOrientation
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:174:13-49
+	android:theme
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:175:13-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:173:15-61
+service#com.msg.server.RetrievalSmsService
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:177:9-179:65
+	android:exported
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:178:13-37
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:179:13-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:182:5-71
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:182:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:183:5-67
+MERGED from [com.lzy.net:okhttputils:1.7.0] E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.7.0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:183:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:184:5-79
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:184:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:185:5-81
+MERGED from [com.lzy.net:okhttputils:1.7.0] E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.7.0\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:185:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:186:5-72
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:186:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:187:5-73
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:187:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:188:5-75
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:188:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:189:5-80
+MERGED from [com.lzy.net:okhttputils:1.7.0] E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.7.0\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:189:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:190:5-84
+MERGED from [com.lzy.net:okhttputils:1.7.0] E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.7.0\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:190:22-81
+uses-permission#android.permission.CAMERA
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:191:5-65
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:191:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:192:5-69
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:192:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:193:5-71
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:193:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:194:5-74
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:194:22-71
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:195:5-69
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:195:22-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:196:5-80
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:196:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:197:5-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:197:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:198:5-67
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:198:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:199:2-63
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:199:19-61
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:200:2-66
+	android:name
+		ADDED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml:200:19-64
+uses-sdk
+INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.lzy.net:okhttputils:1.7.0] E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.7.0\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml
+		INJECTED from E:\code\AS_workplaces\InternetMessenger_branches\app\src\main\AndroidManifest.xml

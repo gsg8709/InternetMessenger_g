@@ -1,0 +1,646 @@
+[
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_ic_inputbar_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_ic_inputbar_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_right_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_right_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_input_blue.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\edit_input_blue.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_submenu_normal.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\setting_submenu_normal.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notifi_icon.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\notifi_icon.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_game_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_game_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_contacts_bg_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_contacts_bg_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_05.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_error_icon.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\chat_error_icon.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_item_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_item_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_close.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_close.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_save_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_save_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_img_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_img_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_icon_right_down_unsel.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\tool_icon_right_down_unsel.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_unfocused.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\page_unfocused.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_ic_searchbar.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_ic_searchbar.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found_news.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_found_news.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_gray_2_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_gray_2_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_right_write_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_right_write_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg2_n.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg2_n.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg2_p.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg2_p.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_square_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_red_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_red_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tool_note_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_note_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_default.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\head_default.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_meassage_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_meassage_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_game_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_game_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_contacts_bg_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_contacts_bg_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_2_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_2_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_home_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bg.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\title_bg.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_selfinfo_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_selfinfo_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_driver.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\contact_driver.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_image.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_image.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_ic_data_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_ic_data_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_del_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_del_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_img_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_img_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tool_ofhooksms_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_ofhooksms_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_gray_right_n.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_gray_right_n.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_item_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_item_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_square_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_square_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_11.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_voice01.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_voice01.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_default_male.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\head_default_male.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_child_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_child_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_right_n.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_right_n.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_meassage_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_meassage_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_save_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_save_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_news_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_news_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_home_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_icon_on.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\check_icon_on.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sms_list_driver.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\sms_list_driver.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_img_searchbar_bg.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_img_searchbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_icon.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\line_icon.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tool_ofhooksms_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_ofhooksms_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_ic_data_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_ic_data_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_right_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_right_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_12.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_12.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_2_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_2_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_input.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\edit_input.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_selfinfo_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_selfinfo_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_open.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_open.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found_sms.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_found_sms.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_input_bottom.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\edit_input_bottom.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_red_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_red_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_mini_card.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_mini_card.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_icon_left_down_unsel.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\tool_icon_left_down_unsel.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_sms_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_sms_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_img_inputbar.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_img_inputbar.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tool_setting_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_setting_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_del.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\edit_del.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_bg.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_toolbar_bg.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\maintab_toolbar_bg.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg_n.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_n.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_return_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_return_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_default.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_default.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_gray_p.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_gray_p.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_tag.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\msg_tag.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_s.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_on.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\setting_on.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_gray_n.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_gray_n.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_box_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\check_box_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_choose_contacts.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_choose_contacts.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_bg_pattern_01.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_bg_pattern_01.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_bg.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_bg.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found_card.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_found_card.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_attach_icon05_disabled.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\chat_attach_icon05_disabled.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tool_note.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_tool_note.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_img_searchbar.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_img_searchbar.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_group_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_group_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_send_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_off.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\setting_off.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tool_setting_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_setting_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_news_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_news_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_play01_tap.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\movie_play01_tap.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_ofhook_sms.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_ofhook_sms.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chathistory_my_text_bg.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\chathistory_my_text_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_found_game.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_found_game.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_input_left.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\edit_input_left.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_card_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_card_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tool_ofhooksms.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_tool_ofhooksms.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_left.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_left.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_box_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\check_box_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_send_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_mid.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\login_input_mid.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_card_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_card_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tool_note_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_note_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_default_female.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\head_default_female.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_ofhook_sms_shadow.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_ofhook_sms_shadow.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_found_sms_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_found_sms_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_right_p.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_right_p.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\ic_play.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_icon_up_unsel.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\tool_icon_up_unsel.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_return_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_return_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_icon_off.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\check_icon_off.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chathistory_other_text_bg.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\chathistory_other_text_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_under.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\login_input_under.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_child_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_child_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg_p.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_p.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_group_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_group_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_07.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_07.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\guide.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bottom.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\list_item_bottom.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_del_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_del_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_img_inputbar_select.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_img_inputbar_select.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2_ic_inputbar_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\v2_ic_inputbar_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time_bg.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\time_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_10.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\record_animate_10.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_top.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\login_input_top.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_gray_2_p.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_gray_2_p.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_box_unsel.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\text_box_unsel.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tool_setting.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\icon_tool_setting.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\ic_stop.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_input_top.9.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\edit_input_top.9.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_right_write_n.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\btn_right_write_n.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_voice02.gif",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\bg_voice02.gif"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_focused.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\page_focused.png"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie_play01.png",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\drawable-hdpi\\movie_play01.png"
+    }
+]

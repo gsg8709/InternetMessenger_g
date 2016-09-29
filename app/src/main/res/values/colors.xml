@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="setting_item">#C2E6E4</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="group_text">#ffb1b4b9</color>
+    <color name="chathistory_send_normal">#ffe9ebed</color>
+    <color name="chathistory_send_dimmed">#ff78b6ff</color>
+    <color name="transparent">#00000000</color>
+
+    <drawable name="list_item">#ffffffff</drawable>
+
+    <color name="blue">#01a189</color>
+    <color name="white">#ffffff</color>
+    <color name="all_bg">#EFEFF5</color>
+
+</resources>

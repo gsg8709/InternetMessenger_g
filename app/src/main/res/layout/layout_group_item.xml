@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <ListView
+        android:id="@+id/lv_contacts"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/layout_title"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/sms_list_driver"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="0dip"
+        android:fastScrollEnabled="false"
+        android:listSelector="@drawable/list_selector_item" />
+
+</RelativeLayout>

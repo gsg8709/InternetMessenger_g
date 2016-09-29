@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_group_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_group_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_add_note.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_add_note.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat_button_dialog.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_interconnection_sms.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_interconnection_sms.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts_list_head.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_contacts_list_head.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat_preview.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat_preview.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_dialog_layout.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\pop_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tools.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_tools.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contact_groups.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_contact_groups.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_note.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_note.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_child_choose_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\expandable_child_choose_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ofhook_sms_list_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\ofhook_sms_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_input_password_dialog.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_input_password_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_child_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\expandable_child_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tools2.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_tools2.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sms_mode_content.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_sms_mode_content.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_add_contacts.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_add_contacts.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_group_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\expandable_group_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chathistory_row_layout_receive.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\chathistory_row_layout_receive.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_games.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_games.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_view.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_title_view.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auto_complete_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\auto_complete_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sms_detail.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_sms_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chathistory_row_layout_send.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\chathistory_row_layout_send.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\tab_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_news_detail.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_news_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_contacts.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_search_note.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_search_note.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_voice_dialog.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_voice_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sms_mode.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_sms_mode.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat_preview2.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat_preview2.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_add_hook_sms.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_add_hook_sms.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_news.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_news.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_time_pick.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_time_pick.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_openbus.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_openbus.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_news_content.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_news_content.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_register_head.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_register_head.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_msg_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_msg_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hook_sms.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_hook_sms.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts_list_foot.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_contacts_list_foot.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_tab_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\api_tab_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_button_dialog.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_button_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msglist_rowchild.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\msglist_rowchild.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_group_choose_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\expandable_group_choose_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_login.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_ofhook_sms.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_ofhook_sms.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat_input1.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat_input1.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_setting.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_note_detail.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_note_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_input_tel.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_input_tel.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_tab_host.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\api_tab_host.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list_loading_foot.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_list_loading_foot.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_group_edit_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_group_edit_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_dialog.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_register.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_register.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_head_loading.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\list_head_loading.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mini_card_list_item1.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\mini_card_list_item1.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_input_dialog.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_input_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\note_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mini_card_list_item2.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\mini_card_list_item2.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mini_card_detail.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_mini_card_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat_send.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat_send.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_help.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_help.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sms_content.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_sms_content.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat_input2.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat_input2.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_mode_list_item.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\sms_mode_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mini_card.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_mini_card.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chat.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_chat.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_searchbar.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_searchbar.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts_choose.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_contacts_choose.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_found.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_found.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_register_sms_verify.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\layout\\layout_register_sms_verify.xml"
+    }
+]

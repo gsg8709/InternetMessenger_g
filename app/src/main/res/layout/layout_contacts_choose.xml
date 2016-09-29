@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFEFF5"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layout_contacts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/layout_title_view" />
+
+        <LinearLayout
+            android:id="@+id/layout_search_show"
+            android:layout_width="fill_parent"
+            android:layout_height="60.669983dip"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="9.329987dip"
+            android:paddingRight="9.329987dip"
+            android:paddingTop="1.0dip"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/v2_img_searchbar"
+                android:gravity="center_vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="9.329987dip"
+                    android:paddingTop="1.0dip"
+                    android:src="@drawable/v2_ic_searchbar" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="3.5dip"
+                    android:layout_marginRight="7.0dip"
+                    android:layout_marginTop="3.5dip"
+                    android:background="#00000000"
+                    android:drawablePadding="3dip"
+                    android:enabled="false"
+                    android:hint="搜索联系人"
+                    android:imeOptions="actionSearch"
+                    android:inputType="text"
+                    android:paddingLeft="5.3299866dip"
+                    android:paddingRight="5.0dip"
+                    android:singleLine="true"
+                    android:textColor="#ff111111"
+                    android:textColorHint="#ffa2a4a8"
+                    android:textSize="13.0sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_content"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:id="@+id/layout_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <Button
+                    android:id="@+id/btn_ok"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/btn_blue2"
+                    android:text="选择"
+                    android:textColor="@android:color/white"
+                    android:textSize="16.0sp" />
+
+                <Button
+                    android:id="@+id/btn_cancel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/btn_blue2"
+                    android:text="返回"
+                    android:textColor="@android:color/white"
+                    android:textSize="16.0sp" />
+            </LinearLayout>
+
+            <ExpandableListView
+                android:id="@+id/list_contacts"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@+id/layout_button"
+                android:divider="@drawable/sms_list_driver" >
+            </ExpandableListView>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_progress"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ProgressBar
+                style="@android:style/Widget.ProgressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dip"
+                android:text="加载中，请稍后"
+                android:textColor="@android:color/black"
+                android:textSize="16.0sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_contacts_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <include layout="@layout/layout_searchbar" />
+
+        <ImageView
+            android:id="@+id/img_cover"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/layout_search"
+            android:background="@drawable/example_tab_item_bg" />
+
+        <LinearLayout
+            android:id="@+id/layout_search_progress"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/layout_search"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ProgressBar
+                style="@android:style/Widget.ProgressBar.Inverse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dip"
+                android:text="搜索中，请稍后"
+                android:textColor="@android:color/white"
+                android:textSize="16.0sp" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/list_search_contacts"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/layout_search"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/sms_list_driver"
+            android:fadingEdge="none"
+            android:choiceMode="singleChoice"
+            android:fadingEdgeLength="0dip"
+            android:fastScrollEnabled="false"
+            android:listSelector="@drawable/list_selector_item"
+            android:visibility="gone" >
+        </ListView>
+    </RelativeLayout>
+
+</LinearLayout>

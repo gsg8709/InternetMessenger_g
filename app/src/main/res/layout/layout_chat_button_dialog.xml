@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" >
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="10dip"
+		android:background="@drawable/edit_input"
+		android:orientation="vertical" >
+		<Button
+			android:id="@+id/settings_skin_camera"
+			android:layout_width="fill_parent"
+			android:layout_height="40dip"
+			android:layout_margin="5dip"
+			android:background="@drawable/btn_gray"
+			android:text="手机拍照"
+			android:textColor="#6c6c6c"
+			android:textSize="16.0sp" />
+		<Button
+			android:id="@+id/settings_skin_gallery"
+			android:layout_width="fill_parent"
+			android:layout_height="40dip"
+			android:layout_margin="5dip"
+			android:background="@drawable/btn_gray"
+			android:text="手机相册"
+			android:textColor="#6c6c6c"
+			android:textSize="16.0sp" />
+		<Button
+			android:id="@+id/settings_skin_mini_card"
+			android:layout_width="fill_parent"
+			android:layout_height="40dip"
+			android:layout_margin="5dip"
+			android:background="@drawable/btn_gray"
+			android:text="迷你卡片"
+			android:textColor="#6c6c6c"
+			android:textSize="16.0sp" />
+		<Button
+			android:id="@+id/settings_skin_news"
+			android:layout_width="fill_parent"
+			android:layout_height="40dip"
+			android:layout_margin="5dip"
+			android:background="@drawable/btn_gray"
+			android:text="有图有料"
+			android:textColor="#6c6c6c"
+			android:textSize="16.0sp" />
+		<Button
+			android:id="@+id/settings_skin_cancel"
+			android:layout_width="fill_parent"
+			android:layout_height="40dip"
+			android:layout_margin="5dip"
+			android:background="@drawable/btn_gray"
+			android:text="取消"
+			android:textColor="#6c6c6c"
+			android:textSize="16.0sp" />
+	</LinearLayout>
+</LinearLayout>

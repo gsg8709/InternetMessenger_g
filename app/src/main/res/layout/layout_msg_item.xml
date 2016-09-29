@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:padding="10dip" >
+	<ImageView
+		android:id="@+id/iv_head"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_centerVertical="true"
+		android:src="@drawable/head_default" />
+	<TextView
+		android:id="@+id/tv_time"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentTop="true"
+		android:layout_gravity="center_vertical"
+		android:layout_marginRight="5dip"
+		android:background="@null"
+		android:gravity="center_vertical|right"
+		android:text="2013-10-29"
+		android:textColor="@android:color/darker_gray"
+		android:textSize="12.0sp" />
+	<TextView
+		android:id="@+id/tv_name"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center|left"
+		android:layout_marginBottom="3dip"
+		android:layout_marginLeft="8dip"
+		android:layout_marginRight="8dip"
+		android:layout_toLeftOf="@+id/tv_time"
+		android:layout_toRightOf="@+id/iv_head"
+		android:layout_weight="1.0"
+		android:background="@null"
+		android:gravity="center_vertical|left"
+		android:singleLine="true"
+		android:text="13269172580"
+		android:textColor="#ff545454"
+		android:textSize="16.0sp" />
+	<TextView
+		android:id="@+id/tv_content"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/tv_name"
+		android:layout_gravity="center|left"
+		android:layout_marginLeft="8dip"
+		android:layout_marginRight="8dip"
+		android:layout_toRightOf="@+id/iv_head"
+		android:background="@null"
+		android:gravity="center_vertical|left"
+		android:singleLine="true"
+		android:text="新一季的上衣你看看图片里面有详细价格"
+		android:textColor="@android:color/darker_gray"
+		android:textSize="16.0sp" />
+</RelativeLayout>

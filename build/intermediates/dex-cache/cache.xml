@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\libs\pinyin4j_android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53c7f700f5767f184ed3674f3328766b46e13a42">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j_android_e40cc4f3a2c4b81547b810b734a32543ce66ccb6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\3020mt\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\ormlite-android-4.48_270eabc033748a9a9a3618f8d6d8416eeb3d2a51\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\3020mt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_bab91b204563e837429fa2c9d46510fcac3e7b58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\3020mt\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\ormlite-core-4.48_7e002c62e65819679d44d843d4ddd9f68c9d5c50\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\libs\android-pre-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="feb00b47f92c937a613a34dd533e8e0779f27b80">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-pre-support-v4_fe72e374e9b71e35ec3f490bbd3c5d9879a44e2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\3020mt\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_1a680ce8469364616d078809373c5aa30028f7ba\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.7.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="43e2aeebe6cfcd5268d0b2be788e001899794035">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.net-okhttputils-1.7.0_32f7b0f4d2206ff638b930a53b743cf7906e1c55\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\libs\httpmime-4.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.2_f0ef33011fd9e80b55a2682d9da0067380fd7d1d\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\libs\prettytime-1.0.8.Final.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="375ffaa7ed63d563978dc9c0a835f719e8088501">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\2\prettytime-1.0.8.Final_484f6a71ecc98b2892adb5439a4c1811c8500ac3\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f5a15d7e89c6ec5ef168b7b5c1f6bf782a251f9">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_db30800555b619ada4e7e70d35e6a905726b0dc5\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bcc8b3f2727c86ecdb2d281c2ba179d72ca4acb9">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ec9309ad380678c593a3bdb96f8c77d5fc0510b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\3020mt\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.7.1\697e3a1fa094a983cd12f7f6f61abf9c6ea52e2\gson-1.7.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0697e3a1fa094a983cd12f7f6f61abf9c6ea52e2">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-1.7.1_69cdeb5f3854309dbf468119ab3bb7782d04ab0d\classes.dex" />
+    </item>
+    <item
+        jar="D:\android_tools\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_9ff308c414995cd639465131884198493d0f3b1a\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\libs\com.im.net.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f78c2784638dd6cbb397c5f92749b059ab618bd">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\2\com.im.net_0b57071b14da3c871133c3bb59704ba440657d2c\classes.dex" />
+    </item>
+    <item
+        jar="E:\code\AS_workplaces\InternetMessenger_branches\app\libs\httpclient-4.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5bf45f7f35857d2c2dccfadf213ff047778a7cb">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.1.2_a1a1d0590634ce0410e372ee9167a4d1092d83cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\3020mt\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\code\AS_workplaces\InternetMessenger_branches\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_61234e77301d4156570994d90d44c9879cacf562\classes.dex" />
+    </item>
+
+</items>

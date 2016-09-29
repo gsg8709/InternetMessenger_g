@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_show2.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\pop_show2.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_show.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\pop_show.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\title_show.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\title_show.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_hide.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\pop_hide.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_hide2.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\pop_hide2.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\build\\intermediates\\res\\merged\\debug\\anim\\title_hide.xml",
+        "source": "E:\\code\\AS_workplaces\\InternetMessenger_branches\\app\\src\\main\\res\\anim\\title_hide.xml"
+    }
+]

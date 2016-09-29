@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/all_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+    
+   <!--  <include 
+        layout="@layout/msglist_rowchild"/>
+ -->
+    <ListView
+        android:id="@+id/list_sms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/sms_list_driver"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="0dip"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="true"
+        android:listSelector="@drawable/list_selector_item" >
+    </ListView>
+
+</LinearLayout>

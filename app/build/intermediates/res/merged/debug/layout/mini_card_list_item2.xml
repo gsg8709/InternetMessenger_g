@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:gravity="center_horizontal"
+	android:orientation="vertical"
+	android:paddingLeft="10dip"
+	android:paddingRight="10dip"
+	android:paddingTop="5dip"
+	android:background="@drawable/v2_img_searchbar_bg"
+	android:paddingBottom="5dip" >
+	<RelativeLayout
+		android:id="@+id/relativeLayout1"
+		android:layout_width="wrap_content"
+		android:layout_height="50dip"
+		android:layout_toRightOf="@id/iv_head" >
+		<ImageView
+			android:id="@+id/iv_head"
+			android:layout_width="50dip"
+			android:layout_height="50dip"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+			android:src="@drawable/icon_default" />
+		<TextView
+			android:id="@+id/tv_content"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_marginRight="8dip"
+			android:layout_toLeftOf="@+id/iv_head"
+			android:background="@null"
+			android:gravity="top|left"
+			android:paddingBottom="2dip"
+			android:paddingTop="2dip"
+			android:maxLines="2"
+			android:ellipsize="end"
+			android:textColor="#ff545454"
+			android:textColorHint="#ff545454"
+			android:textSize="16.0sp" />
+	</RelativeLayout>
+	<TextView
+		android:id="@+id/tv_time"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"
+		android:layout_marginTop="5dip"
+		android:background="@null"
+		android:gravity="center_vertical|right"
+		android:text="2013-10-12"
+		android:textColor="#aeaeae"
+		android:textSize="14.0sp" />
+</LinearLayout>

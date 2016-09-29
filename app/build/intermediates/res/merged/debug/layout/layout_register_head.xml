@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FDFFF6"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingLeft="10.659973dip"
+        android:paddingRight="10.659973dip" >
+
+        <TextView
+            android:id="@+id/edittext_identifier"
+            android:layout_width="fill_parent"
+            android:layout_height="30dip"
+            android:layout_marginTop="6.659973dip"
+            android:gravity="center"
+            android:paddingLeft="5.559998dip"
+            android:paddingRight="9.23999dip"
+            android:text="设置头像，方便朋友认出你"
+            android:textColor="#ff6c6c6c"
+            android:textColorHint="#ff97999d"
+            android:textSize="16.0sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv_head"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:layout_gravity="center"
+            android:layout_marginTop="28.0dip"
+            android:background="@drawable/head_default" />
+
+        <Button
+            android:id="@+id/btn_head_finish"
+            style="@style/v2_common_button_big_green"
+            android:layout_marginTop="28.0dip"
+            android:text="完成"
+            android:textSize="16.0sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 工具 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFEFF5"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10.0dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:id="@+id/layout_user_info"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_setting_item" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15.0dip"
+                android:src="@drawable/setting_submenu_normal" />
+
+            <TextView
+                android:id="@+id/user_info"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="个人资料"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/layout_password"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_setting_item" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15.0dip"
+                android:src="@drawable/setting_submenu_normal" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="修改密码"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/layout_screen_pop"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:visibility="gone"
+            android:background="@drawable/btn_setting_item" >
+
+            <CheckBox
+                android:id="@+id/cb_screen_pop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dip"
+                android:button="@drawable/setting_check"
+                android:paddingRight="15.0dip" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:layout_toLeftOf="@+id/cb_screen_pop"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="来电弹屏开关"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_ofhook_sm"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_setting_item" >
+
+            <CheckBox
+                android:id="@+id/cb_ofhook_sms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dip"
+                android:button="@drawable/setting_check"
+                android:paddingRight="15.0dip" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:layout_toLeftOf="@+id/cb_ofhook_sms"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="挂机短信开关"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/layout_update"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_setting_item" >
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15.0dip"
+                android:src="@drawable/setting_submenu_normal" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:layout_toLeftOf="@+id/img1"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="检测新版本"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+        
+        
+        <RelativeLayout
+            android:id="@+id/layout_help"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_setting_item" >
+
+            <ImageView
+                android:id="@+id/img1_help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15.0dip"
+                android:src="@drawable/setting_submenu_normal" />
+
+            <TextView
+                android:id="@+id/help_textview"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:layout_toLeftOf="@+id/img1_help"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="使用帮助"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:id="@+id/layout_open_bus"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@drawable/btn_setting_item" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15.0dip"
+                android:src="@drawable/setting_submenu_normal" />
+
+            <TextView
+                android:id="@+id/open_bus_textview"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginRight="3dip"
+                android:background="@null"
+                android:gravity="center_vertical|left"
+                android:hint="开通业务"
+                android:paddingLeft="15dip"
+                android:textColor="#ff545454"
+                android:textColorHint="#ff545454"
+                android:textSize="18sp" />
+        </RelativeLayout>
+        
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30.0dip"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginBottom="10.0dip"
+        android:background="@drawable/btn_red"
+        android:text="退出登录"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>

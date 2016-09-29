@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#EFEFF5" >
+
+    <include layout="@layout/layout_title_view" />
+
+    <LinearLayout
+        android:id="@+id/layout_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:layout_marginRight="1dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_blue2"
+            android:text="互联短信"
+            android:textColor="#01a189"
+            android:textSize="16.0sp" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_blue2"
+            android:text="短信"
+            android:textColor="#01a189"
+            android:textSize="16.0sp" />
+    </LinearLayout>
+
+    <com.msg.widget.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/chatlist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/layout_button"
+        android:layout_below="@+id/layout_title"
+        android:layout_marginBottom="5dip"
+        android:layout_marginTop="5dip"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@null"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@drawable/list_item_transparent"
+        android:scrollingCache="false"
+        ptr:ptrMode="pullFromStart" />
+
+    <include
+        layout="@layout/layout_chat_input1"
+        android:visibility="gone" />
+
+    <include
+        layout="@layout/layout_chat_input2"
+        android:visibility="gone" />
+
+</RelativeLayout>
